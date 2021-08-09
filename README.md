@@ -1,5 +1,6 @@
--  Hi!! 👋, I’m Yash Bhardwaj.  
-- My interest lies in WEB DEVELOPMENT.
+#  Hi!! 👋, Myself Yash Bhardwaj.
+- CSE undergrad.
+- Passionate about WEB DEVELOPMENT.
 - Knows to code in Java.
-- Always ready to take challenges.
+- Always willing to learn new technologies.
 
