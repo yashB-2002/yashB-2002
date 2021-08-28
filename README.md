@@ -1,6 +1,11 @@
-#  Hi!! 👋, Myself Yash Bhardwaj.
-- CSE undergrad.
+#  Hi there 👋, I'm Yash Bhardwaj.
+- CSE undergrad at BPIT, Delhi.
 - Passionate about WEB DEVELOPMENT.
-- Knows to code in Java.
-- Always willing to learn new technologies.
+- Code in JAVA
+- Always willing to learn and explore new tech stacks.
+
+
+
+
+
 
