@@ -12,7 +12,7 @@
 
 # Connect with me
 
-.Linkedin -> https://www.linkedin.com/in/yash2002/
+- Linkedin -> https://www.linkedin.com/in/yash2002/
 
 
 
