@@ -8,7 +8,7 @@
 # Current status of What I'm doing
 
 - Currently learning Data Structures And Algorithms in Java.
-- Side by side doing development also.
+- Side by side doing Web development also.
 
 # Connect with me
 
