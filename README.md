@@ -19,7 +19,7 @@
 - Backend Technologies - NODE.JS | EXPRESS.JS | MongoDB. 
 - Tools - GIT | GITHUB.
 
-# Connect with me
+# Connect with me 🤝
 
 - Linkedin -> https://www.linkedin.com/in/yash2002/
 
