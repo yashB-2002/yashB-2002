@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yash Bhardwaj</h1>
-<h2 align="center">A Tech Explorer and a Self Learner.</h2>
+<h1 align="left">Hi 👋, I'm Yash Bhardwaj</h1>
+<h2 align="left">A Tech Explorer and a Self Learner.</h2>
 
 - 🔭 I’m currently working on **Web Scraping project**
 
@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashb-2002&show_icons=true&locale=en&layout=compact" alt="yashb-2002" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashb-2002&show_icons=true&locale=en" alt="yashb-2002" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yashb-2002&show_icons=true&locale=en" alt="yashb-2002" /></p>
