@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Javascript, React, Node.Js**
 
-<h3 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
+<h1 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h1>
 <p align="left">
 <a href="https://linkedin.com/in/yash2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash2002" height="30" width="40" /></a>
 </p>
