@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Yash Bhardwaj</h1>
 <h2 align="left">A Tech Explorer and a Continous Learner.</h2>
 
-- 🔭 I’m currently working on **Web Scraping project**
+- 🔭 I’m currently working on **Web Scraping and Browser Automation project**
 
 - 🌱 I’m currently learning **Web Development, Data Structures and Algorithms**
 
