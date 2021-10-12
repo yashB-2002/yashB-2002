@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development, Data Structures and Algorithms**
 
-- 💬 Ask me about **Javascript, React, Node.Js**
+- 💬 Ask me about **Javascript, React, Node.Js, Automation**
 
 <h1 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h1>
 <p align="left">
