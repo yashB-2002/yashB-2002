@@ -1,12 +1,8 @@
-<h1 align="left">Hi 👋, I'm Yash Bhardwaj</h1>
-<h2 align="left">A Tech Explorer and a Continous Learner.</h2>
-
-- 🔭 I’m currently working on **Web Development Project**
-
-- 🌱 I’m currently learning **Web Development, Data Structures and Algorithms**
-
-- 💬 Ask me about **Javascript, React, Node.Js, Automation**
-
+<h2 align="left">👋 Hey there! I'm Yash Bhardwaj</h2>
+<h2 align= "left"> 👨‍💻  About me </h2>
+<p align = "left"> 💡 I like to explore new technologies. </p>
+<p align = "left"> 🎓 I'm currently persuing B.tech in Computer Science from bpit delhi. </p>
+<p align = "left"> 🌱 I'm on track for learning more about Web Development and Data structures. </p>
 <h1 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h1>
 <p align="left">
 <a href="https://linkedin.com/in/yash2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash2002" height="30" width="40" /></a>
