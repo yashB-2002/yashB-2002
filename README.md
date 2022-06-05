@@ -3,8 +3,7 @@
 <p align = "left"> 💡 I like to explore new technologies. </p>
 <p align = "left"> 🎓 I'm currently persuing B.tech in Computer Science from bpit delhi. </p>
 <p align = "left"> 🌱 I'm on track for learning more about Web Development and Data structures. </p>
-<h1 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h1>
-<p align="left">
+<h1 align="left">Connect with me:</h1>
 <a href="https://linkedin.com/in/yash2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash2002" height="30" width="40" /></a>
 </p>
 
