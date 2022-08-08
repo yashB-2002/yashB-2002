@@ -1,4 +1,4 @@
-<img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" height="400" width="1000" />
+<img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" height="300" width="500" />
 <h2 align="center">👋 Hey there! I'm Yash Bhardwaj</h2>
 <p align = "center"> 🌱 <b>Web Developer</b> </p>
 <h2 align= "left"> 👨‍💻  About me </h2>
