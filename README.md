@@ -1,6 +1,6 @@
 <p align="center" ><img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" height="300" width="600" /></p>
 <h2 align="center">👋 Hey there! I'm Yash Bhardwaj</h2>
-<p align = "center"> 🌱 <b>Web Developer</b> </p>
+<h2 align = "center"> <b>Web Developer</b> </h2>
 <h2 align= "left"> 👨‍💻  About me </h2>
 <p align = "left"> 🎓 I'm currently persuing B.tech in Computer Science from Bpit delhi. </p>
 <p align = "left">🔭 I’m currently working on Web Development project.</p>
