@@ -6,7 +6,7 @@
 </p>
 <img width="50%" align="right" alt="Github" src="https://c.tenor.com/zn8iyusePtgAAAAC/tenor.gif" />
 <h2 align= "left"> 👨‍💻  About me </h2>
-<p align = "left"> 🎓 I'm currently persuing <b>B.tech in Computer Science from Bpit Delhi. </b> </p>
+<p align = "left"> 🎓 <b>B.tech in Computer Science from Bpit Delhi. </b> </p>
 <p align = "left">🔭 I’m currently working on Full Stack Web project.</p>
 <p align = "left">👯 I’m looking to collaborate on MERN stack projects.</p>
 <p align = "left">💬 Ask me about <b> Javascript, React, Next, Dsa </b></p>
